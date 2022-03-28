@@ -1,7 +1,7 @@
 
 # Description
 
-This app helps you to extract relevance data Easy & Quickly from Youtube of your Favourite **Youtube Channel** or **Video features** without you have to write any lines of code
+This app helps you to extract relevant ***data easily & quickly*** from Youtube of your favourite ***channel or video features*** without you having to write any lines of code, you can get :
 
 * **```Channel Stats```**
 * **```Search videos By Keyword```**
