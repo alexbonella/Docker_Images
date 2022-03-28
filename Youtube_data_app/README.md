@@ -1,7 +1,11 @@
 
 # Description
 
-This repository contains a docker image that allows running a Streamlit web application. It can be used to count objects in an image or cartoonize your images.
+This app helps you to extract relevance data Easy & Quickly from Youtube of your Favourite **Youtube Channel** or **Video features** without you have to write any lines of code
+
+* **```Channel Stats```**
+* **```Search videos By Keyword```**
+* **```Features Videos```**
 
 # Demo App Here 
 
@@ -17,7 +21,7 @@ Simply enter the following command to run your application
 
 # The application is now visible in your browser at: 
 
-👉 http://localhost:8501
+👉 http://localhost:80
 
 # Connect with me: 
 
