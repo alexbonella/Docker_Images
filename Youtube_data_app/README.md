@@ -5,7 +5,8 @@ This repository contains a docker image that allows running a Streamlit web appl
 
 # Demo App Here 
 
-![Demo_App](https://github.com/alexbonella/Docker_Images/issues/2#issue-1183579941)
+![Demo_App](https://user-images.githubusercontent.com/45697319/160428418-bf8c2c12-3bde-4445-a82b-ef3c180030d5.mp4)
+
 
 # Run the docker container
 
