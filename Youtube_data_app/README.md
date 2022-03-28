@@ -1,3 +1,8 @@
+# Online Presence
+
+[![LinkedIn](https://img.shields.io/badge/-Go%20To%20LinkedIn-3b5998)](https://www.linkedin.com/in/alexanderbolano)
+[![Medium](https://img.shields.io/badge/-Medium-black)](https://datexland.medium.com/)
+[![Twitter](https://img.shields.io/badge/-Twiteer-1DA1F2)](https://twitter.com/Alex_bonella)
 
 # Description
 
@@ -23,11 +28,3 @@ Simply enter the following command to run your application
 
 👉 http://localhost:80
 
-# Connect with me: 
-
-* [![LinkedIn](https://img.shields.io/badge/-LinkedIn-3b5998)](https://www.linkedin.com/in/alexanderbolano)
-* [![Medium](https://img.shields.io/badge/-Medium-black)](https://datexland.medium.com/)
-* [![Kaggle](https://img.shields.io/badge/-Kaggle-blue)](https://www.kaggle.com/alexbonella)
-* [![Website](https://img.shields.io/badge/-Website-green)](http://portafolio-ab.herokuapp.com/)
-* [![Stackoverflow](https://img.shields.io/badge/-Stackoverflow-ff7c55)](https://stackoverflow.com/users/10906576/alexbonella)
-* [![Twitter](https://img.shields.io/badge/-@Alex_bonella-1DA1F2)](https://twitter.com/Alex_bonella)
