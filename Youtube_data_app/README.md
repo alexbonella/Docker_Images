@@ -22,7 +22,7 @@ This app helps you to extract relevant ***data easily & quickly*** from Youtube 
 Simply enter the following command to run your application
 
 
-* `docker run --name container_name -it --rm -p 80:8501 datexander/youtube_data_app`
+* `docker run --name container_name -it --rm -p 80:8501 datexander/youtube_data_app:1.1`
 
 # The application is now visible in your browser at: 
 
